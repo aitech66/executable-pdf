@@ -39,7 +39,7 @@ When opened with Evince, the pdf will execute the script and will create a `hell
 
 # Acknowledgements
 
-The idea was 100% inspired by https://phrack.org/issues/71/10.html#article
+The idea was 100% inspired by https://phrack.org/issues/71/10.html#article and https://dwheeler.com/program-library/Program-Library-HOWTO/x36.html.
 
 
 <pre>
